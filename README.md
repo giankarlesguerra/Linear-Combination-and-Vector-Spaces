@@ -1,1 +1,1 @@
-# Linear-Combination-and-Vector-Spaces
+# Laboratory 3: Linear Combination and Vector Spaces
